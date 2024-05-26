@@ -25,8 +25,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href=”https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09"><img align=”left” src=”" alt=”” width=”21px”/></a>
-<a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Xinh Studio - Flaticon</a>
+<a href=”https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09"><img align=”left” src=”social.png" alt=”” width=”21px”/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
