@@ -24,15 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6] 
 
- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
- [1]: https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09
+<a href=”https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
