@@ -25,8 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href=”https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09"><img align=”left” src=”social.png" alt=”” width=”21px”/></a>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vchaitanyasai4?t=rEtePqhGDrzjwuZBY7649Q&s=08) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09) 
 
 </p>
 
