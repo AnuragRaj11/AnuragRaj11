@@ -25,7 +25,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href=”https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+<a href=”https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09"><img align=”left” src=”" alt=”” width=”21px”/></a>
+<a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Xinh Studio - Flaticon</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
