@@ -24,7 +24,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anuragraj_11?igsh=MW5hejFsenpyN3MyeQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-raj-150aa3227) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/vchaitanyasai4?t=rEtePqhGDrzjwuZBY7649Q&s=08](https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09) 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6] 
+
+ [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+ [1]: https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
