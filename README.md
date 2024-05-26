@@ -24,10 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[![https://twitter.com/anuragr11_]](https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragr11_" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/anurag raj](https://www.linkedin.com/in/anurag-raj-150aa3227)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag raj" height="30" width="40" /></a>
-<a href="[https://instagram.com/anuragraj_11](https://www.instagram.com/anuragraj_11?igsh=MW5hejFsenpyN3MyeQ==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuragraj_11" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/anurag raj](https://leetcode.com/u/Anuragraj11/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag raj" height="30" width="40" /></a>
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/viswa_chaitanya_sai?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D](https://www.instagram.com/anuragraj_11?igsh=MW5hejFsenpyN3MyeQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/viswa-chaitanya/)](https://www.linkedin.com/in/anurag-raj-150aa3227) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/vchaitanyasai4?t=rEtePqhGDrzjwuZBY7649Q&s=08](https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
