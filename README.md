@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragraj11&label=Profile%20views&color=0e75b6&style=flat" alt="anuragraj11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragraj11&label=Profile%20views&color=0e75b6&style=flat" alt="anuragraj11" /> </p> 
 
 - 🔭 I’m currently working on **learn Backend web dev**
 
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/AnuragR11_?t=UnZUxUoxL_TMtob074vuPQ&s=09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anuragraj_11?igsh=MW5hejFsenpyN3MyeQ==)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-raj-150aa3227)
 
 </p>
 
