@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragraj11&label=Profile%20views&color=0e75b6&style=flat" alt="anuragraj11" /> </p> 
 
-- 🔭 I’m currently working on **learn Backend web dev**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
 
