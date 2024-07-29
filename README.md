@@ -1,7 +1,7 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Anurag Raj</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
-<img align="right" alt="Coding"  src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<img align="right" alt="Coding"  src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="220px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragraj11&label=Profile%20views&color=0e75b6&style=flat" alt="anuragraj11" /> </p> 
 
 - 🔭 I’m currently working on **Full Stack Development**
