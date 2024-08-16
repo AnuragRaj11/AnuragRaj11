@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m looking to collaborate on **Cloud native Projects**
+- 👯 I’m looking to collaborate on **Cloud native Projects** 
 
 - 🤝 I’m looking for help with **DevOps** 
 
