@@ -80,6 +80,9 @@
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="background-color: #F7E7CE; padding: 5px; border-radius: 5px; margin: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+</a>
     
 ### Cloud Services:
 
@@ -110,6 +113,9 @@
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
+ <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
+</a>
 </div>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragraj11&theme=aura&show_icons=true&locale=en&layout=compact" alt="anuragraj11" /></p>
