@@ -83,6 +83,15 @@
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
 </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="100" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+</a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="80" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+</a>
     
 ### Cloud Services:
 
