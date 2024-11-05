@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **AI/ML** 
 
 - 👯 I’m looking to collaborate on **Cloud native Projects** 
  
