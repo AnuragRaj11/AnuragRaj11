@@ -35,7 +35,6 @@
 
 ### Languages:
 <p align="left">
- <p>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="background-color: #E6E6E6; padding: 5px; border-radius: 5px; margin: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
@@ -54,7 +53,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="background-color: #E6E6E6; padding: 5px; border-radius: 5px; margin: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
-    
+    <a href="https://golang.org/" target="_blank" rel="noreferrer" style="background-color: #E6E6E6; padding: 5px; border-radius: 5px; margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/>
+    </a>
+</p>
+
+  
    ### Frameworks and Libraries:
 
   <P></P>
