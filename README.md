@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI/ML Development** 
 
-- 🌱 I’m currently learning **3 JS**  
+- 🌱 I’m currently learning **3 JS**   
 
 - 👯 I’m looking to collaborate on **Cloud native Projects** 
  
