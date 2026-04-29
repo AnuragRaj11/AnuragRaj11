@@ -1,25 +1,25 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d) 
 <h1 align="center">Hi 👋, I'm Anurag Raj</h1>
-<h3 align="center">A passionate Web developer from India.</h3> 
+<h3 align="center">Passionate Full-Stack Developer & AI/ML Engineer from India.</h3> 
 <img align="right" alt="Coding" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="220px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragraj11&label=Profile%20views&color=0e75b6&style=flat" alt="anuragraj11" /> </p>  
 
-- 🔭 I’m currently working on **AI/ML Development** 
+* 🔭 Working on **AI/ML systems & real-world GenAI applications**
 
-- 🌱 I’m currently learning **MCP**   
+* 🌱 Learning **MCP, Agentic AI & LLM-powered systems**
 
-- 👯 I’m looking to collaborate on **Cloud native Projects** 
- 
-- 🤝 I’m looking for help with **DevOps** 
+* 👯 Open to collaborate on **Cloud-native & AI-driven projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnuragRaj11?tab=repositories](https://github.com/AnuragRaj11?tab=repositories)
+* 🤝 Exploring **DevOps, MLOps & scalable deployments**
 
-- 💬 Ask me about **Cloud GCP** 
+* 👨‍💻 Projects: **https://github.com/AnuragRaj11**
 
-- 📫 How to reach me **cloudanurag11@gmail.com**
+* 💬 Ask me about **AI/ML, GCP & Backend Systems**
 
-- ⚡ Fun fact **I create memes**
+* 📫 Reach me: **[cloudanurag11@gmail.com](mailto:cloudanurag11@gmail.com)**
+
+* ⚡ Fun fact: **I turn AI concepts into memes 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
